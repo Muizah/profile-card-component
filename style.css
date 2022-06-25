@@ -118,3 +118,6 @@ img {
   right: 0;
   background-image: url(images/bg-pattern-bottom.svg);
 }
+
+@media (min-width: 375px) and (max-width: 800px) {
+}
